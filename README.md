@@ -1,22 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-16756
-Fork on GitHub
-4729
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hey 👋, I'm RATNESH PAWAR</h1>
 <h3 align="center">A passionate Full-Stack Software Developer and currently a Grad student at CSUDH</h3>
 
