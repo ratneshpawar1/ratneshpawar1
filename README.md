@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **any open source in full-stack**
 
 - 🤝 I’m looking for help with **Data Structures and Algorithms**
-
+2222222222222
 - 💬 Ask me about **react, Python, Machine Learning**
 
 - 📫 How to reach me **ratneshpawar00@gmail.com**
