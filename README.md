@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center">Hey 👋, I'm RATNESH PAWAR</h1>
+<h1 align="center">Hey 👋, I'm RATNESH PAWAR</h1> 
 <h3 align="center">A passionate Full-Stack Software Developer and currently a Grad student at CSUDH</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratneshpawar1&label=Profile%20views&color=0e75b6&style=flat" alt="ratneshpawar1" /> </p>
