@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms for interview prep, and JAVA for backend**
+- 🌱 I’m currently learning **Data Structures and Algorithms for interview prep**
 
 - 👯 I’m looking to collaborate on **any open source in full-stack**
 
