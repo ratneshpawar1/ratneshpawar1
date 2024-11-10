@@ -36,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratneshpawar1&show_icons=true&locale=en" alt="ratneshpawar1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratneshpawar1&" alt="ratneshpawar1" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=ratnesh%20pawar1&hide_border=true" alt="GitHub Streak" /></p>
