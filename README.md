@@ -12,13 +12,13 @@
 
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms for interview prep**
+- 🌱 I’m currently learning **Agentic AI and Domain Specific workflows**
 
 - 👯 I’m looking to collaborate on **any open source in full-stack**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
+- 🤝 I’m looking for help with **ServiceNow Modules exploration**
 
-- 💬 Ask me about **react, Python, Machine Learning**
+- 💬 Ask me about **react, Python, Machine Learning, Golang, Product**
 
 - 📫 How to reach me **ratneshpawar00@gmail.com**
 
